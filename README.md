@@ -12,7 +12,7 @@ I'm a senior Machine Learning Engineer designing and developing creative softwar
 <br>
 
 ## 🚀 **Languages and Tools:** 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,aws,gcp,conda,mysql,postgres,js,ts,react,nodejs,html,css,bootstrap,tailwind,css,arduino,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,aws,gcp,anaconda,mysql,postgres,js,ts,react,nodejs,html,css,bootstrap,tailwind,css,arduino,postman)](#)
 
 <br> 
 
