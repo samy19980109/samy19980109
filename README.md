@@ -12,7 +12,7 @@ I'm a senior Machine Learning Engineer designing and developing creative softwar
 <br>
 
 ## 🚀 **Languages and Tools:** 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,aws,gcp,anaconda,mysql,postgres,js,ts,react,nodejs,html,css,bootstrap,tailwind,css,arduino,postman)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,aws,gcp,anaconda,mysql,postgres,js,ts,react,nodejs,html,css,bootstrap,tailwind,css,arduino,postman)](#)
 
 <br> 
 
@@ -34,4 +34,4 @@ I'm a senior Machine Learning Engineer designing and developing creative softwar
 - Real-Time Speculative Decoding Visualization (01/2026): A full-stack system achieving 3.4x inference speedup for LLMs using speculative decoding.
 - High-Performance LLM Evaluation Framework (12/2025): Built a four-tier evaluation framework with a logit drift guard for numerical regression detection on custom silicon.
 - Multi-Agent Retrieval-Augmented Generation (RAG) system (12/2024): Engineered an efficient AI application using Langflow, OpenAI API, and Streamlit.
-- Fine Tuning LLM with QLoRa (06/2023): Fine-tuned a 13B parameter LLM (Llama) using 4-bit quantization (p. 1).
+- Fine Tuning LLM with QLoRa (06/2023): Fine-tuned a 13B parameter LLM (Llama) using 4-bit quantization.
