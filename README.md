@@ -2,12 +2,12 @@
 
 I'm a senior Machine Learning Engineer designing and developing creative software/data solutions to enhance business productivity, gain insights & generate revenue. 
 
-🔭 Currently working as a Machine Learning Engineer - Senior Specialist at Vanguard Investments Canada, developing Gen AI solutions for Financial Advisors.
-🌱 Proficient in Machine Learning techniques, data analytics, warehousing, and workflow orchestration (Apache Airflow, Kubeflow).
-💡 Experienced in developing advanced CNN fingerprinting solutions (eBay, reducing fraud by 95%) and XGBoost models for churn prediction (Corus Entertainment, 90% accuracy).
-💬 Ask me about anything related to ML pipelines, cloud platforms (AWS, GCP, Azure), or full-stack development.
-📫 How to reach me: [E-mail](mailto:sam.agarwal@alumni.utoronto.ca) or [Linkedin](https://www.linkedin.com/in/samarth-agarwal/).
-⚡ Fun fact: Winner of Toronto's largest hackathon, UofTHacks, in 2019.
+- 🔭 Currently working as a Machine Learning Engineer - Senior Specialist at Vanguard Investments Canada, developing Gen AI solutions for Financial Advisors.
+- 🌱 Proficient in Machine Learning techniques, data analytics, warehousing, and workflow orchestration (Apache Airflow, Kubeflow).
+- 💡 Experienced in developing advanced CNN fingerprinting solutions (eBay, reducing fraud by 95%) and XGBoost models for churn prediction (Corus Entertainment, 90% accuracy).
+- 💬 Ask me about anything related to ML pipelines, cloud platforms (AWS, GCP, Azure), or full-stack development.
+- 📫 How to reach me: [E-mail](mailto:sam.agarwal@alumni.utoronto.ca) or [Linkedin](https://www.linkedin.com/in/samarth-agarwal/).
+- ⚡ Fun fact: Winner of Toronto's largest hackathon, UofTHacks, in 2019.
 
 <br>
 
